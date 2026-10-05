@@ -215,7 +215,6 @@ This project is licensed under the [MIT License](LICENSE).
 **Sheikh Naim**
 - GitHub: [snaimio](https://github.com/snaimio)
 - LinkedIn: [snaimio](https://www.linkedin.com/in/snaimio)
-- Email: [naimbgd@gmail.com](mailto:naimbgd@gmail.com)
 
 ---
 
